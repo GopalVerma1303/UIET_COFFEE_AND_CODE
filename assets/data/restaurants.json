@@ -1,0 +1,166 @@
+[
+  {
+    "id": "1",
+    "name": "Domino’s Pizza",
+    "deliveryFee": 1.40,
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 35,
+    "rating": 4.0,
+    "image": "https://mishry.com/wp-content/uploads/2020/11/Dominos-Review-By-Kalyan.jpeg",
+    "dishes": [
+      {
+        "name": "Margherita",
+        "description": "A classic delight with 100% Real mozzarella cheese",
+        "price": 290,
+        "image": "https://images.dominos.co.in/new_margherita_2502.jpg"
+      },
+      {
+        "name": "Farmhouse",
+        "description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
+        "price": 290,
+        "image": "https://images.dominos.co.in/farmhouse.png"
+      },
+      {
+        "name": "Veg Extravaganza",
+        "description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+        "price": 340,
+        "image": "https://images.dominos.co.in/new_veg_extravaganza.jpg"
+      },
+      {
+        "name": "Veggie Paradise",
+        "description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+        "price": 390,
+        "image": "https://images.dominos.co.in/new_veggie_paradise.jpg"
+      },
+      {
+        "name": "Chicken Sausage",
+        "description": "American classic! Spicy, herbed chicken sausage on pizza",
+        "price": 290,
+        "image": "https://images.dominos.co.in/new_chicken_sausage.jpg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Taco Bell",
+    "deliveryFee": 0.40,
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 35,
+    "rating": 4.7,
+    "image": "https://b.zmtcdn.com/data/pictures/chains/3/312123/9846d6003416d857a3577f0ef40d8cd3.jpg",
+    "dishes": [
+      {
+        "name": "Naked Chicken Taco",
+        "description": "A taco made entirely out of chicken! It is a juicy and crispy chicken taco filled with zesty ranch sauce, crisp shredded lettuce, tangy salsa and topped with two-blend cheese & nacho cheese sauce. Energy: KCal 157.0 Contains Cereals, Milk & Soya",
+        "price": 295,
+        "image": "https://b.zmtcdn.com/data/dish_photos/8aa/525a892199e82ec1c837c9db9a5818aa.jpg?fit=around|130:130&crop=130:130;*,*"
+      },
+      {
+        "name": "7 Layer Burrito - Non veg",
+        "description": "7 layer burrito is a complete meal in itself. It is a grilled soft tortilla filled with 7 different fillings including grilled chicken, Mexican seasoned rice, tangy salsa, nacho cheese sauce, lava sauce & pinto beans, it's mind blowing. Energy KCal: 178.2 Contains Cereals & Soya",
+        "price": 295,
+        "image": "https://b.zmtcdn.com/data/dish_photos/e89/ec500e2302d8b0a32660e8649a193e89.jpg?fit=around|130:130&crop=130:130;*,*"
+      },
+      {
+        "name": "Big Bell Box - Veg",
+        "description": "Meal for 1 (save up to 47%) this real blockbuster meal comes with 1 veg sriracha burrito, 1 crunchy pinto bean taco topped with zesty ranch sauce, 1 Mexican fries, 1 cinnamon twist and 1 beverage of choice.",
+        "price": 295,
+        "image": "https://b.zmtcdn.com/data/dish_photos/365/7666a7b25fc7b8854372beeaa4007365.jpg?fit=around|130:130&crop=130:130;*,*"
+      },
+      {
+        "name": "7 Layer Burrito - Veg",
+        "description": "7 layer burrito is a complete meal in itself. It is a grilled soft tortilla filled 7 different including fajita veg, pinto beans, crispy potato bites, Mexican seasoned rice, tangy salsa, nacho cheese sauce & lava sauce, it's mind blowing. Energy KCal: 178.2 Contains Cereals & Soya.",
+        "price": 295,
+        "image": "https://b.zmtcdn.com/data/dish_photos/15a/1b5c0f78ea5157e06ea4360c66d3815a.jpg?fit=around|130:130&crop=130:130;*,*"
+      },
+      {
+        "name": "Crunchy Taco Pinto Bean",
+        "description": "It's crunchy. It's delicious! Our signature product served with pinto beans & zesty ranch sauce. Energy KCal: 120.7 Contains Cereals, Milk & Soya.",
+        "price": 295,
+        "image": "https://b.zmtcdn.com/data/dish_photos/f55/38fb760f068ccdf02132e9fa5958cf55.jpg?fit=around|130:130&crop=130:130;*,*"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Burger King",
+    "deliveryFee": 1.40,
+    "minDeliveryTime": 20,
+    "maxDeliveryTime": 30,
+    "rating": 4.3,
+    "image": "https://mms.businesswire.com/media/20210504005387/en/875707/4/Miami_Packaging_Pilot_Image_4.30.21.jpg?download=1",
+    "dishes": [
+      {
+        "name": "Whopper Jr.",
+        "description": "Flame-grilled beef patty with juicy tomatoes, crisp lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a toasted sesame seed bun.",
+        "price": 590,
+        "image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/a186587fa5489876daa7a480d72aa517ddfed595-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Whopper",
+        "description": "A ¼ lb* of flame-grilled beef patty topped with juicy tomatoes, crisp lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a toasted sesame seed bun.*Weight based on pre-cooked patty.",
+        "price": 300,
+        "image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/84743a96a55cb36ef603c512d5b97c9141c40a33-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Double Whopper",
+        "description": "Two ¼ lb.* flame-grilled beef patties with juicy tomatoes, crisp lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a toasted sesame seed bun.*Weight based on pre-cooked patty",
+        "price": 590,
+        "image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/741f937b50b66ff1f6314046458cf3a4ffe30d8d-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Triple Whopper with Cheeser",
+        "description": "Three ¼ lb* flame-grilled beef patties with juicy tomatoes, crisp lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a toasted sesame seed bun.*Weight based on pre-cooked patty.",
+        "price": 590,
+        "image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/f3d7588c1f46ad6a1afaa3404cec65ed6053879f-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      },
+      {
+        "name": "Bacon King",
+        "description": "1,200 CalTwo 1/4 lb* flame-grilled beef patties with crispy bacon, melted American cheese, ketchup, and creamy mayonnaise on a toasted sesame seed bun.*Weight based on pre-cooked patty.",
+        "price": 520,
+        "image": "https://cdn.sanity.io/images/czqk28jt/prod_bk_us/60712f81a07316d3300b65823ab68b59def70c8e-1333x1333.png?w=320&q=40&fit=max&auto=format"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Subway",
+    "deliveryFee": 0.90,
+    "minDeliveryTime": 30,
+    "maxDeliveryTime": 40,
+    "rating": 4.5,
+    "image": "https://cdn.britannica.com/08/193908-050-66767D57/view-Subway-restaurant-Bangkok-Thailand.jpg",
+    "dishes": [
+      {
+        "name": "Aloo Patty",
+        "description": "The traditional aloo patty seasoned with special herbs and spices with your choice of crisp fresh veggies, on freshly baked bread.",
+        "price": 490,
+        "image": "https://www.subway.com/ns/images/menu/IND/ENG/new%20RPLC-AlooPatty_594_334.jpg"
+      },
+      {
+        "name": "Chicken Kofta",
+        "description": "Chicken that's coarsely ground is laced with a hint of Indian spices mix.",
+        "price": 490,
+        "image": "https://www.subway.com/ns/images/menu/IND/ENG/Chicken%20Kofta_594x334.jpg"
+      },
+      {
+        "name": "Chicken Slice",
+        "description": "Savory sliced chicken slice with your choice of fresh vegetables all served on freshly baked bread.",
+        "price": 990,
+        "image": "https://www.subway.com/ns/images/menu/IND/ENG/new%20RPLC-Chicken%20slices_594%20x%20334.jpg"
+      },
+      {
+        "name": "Chicken Teriyaki",
+        "description": "This gourmet specialty is a flavourful blend of tender teriyaki glazed chicken strips served hot & toasted, on freshly baked bread.",
+        "price": 390,
+        "image": "https://www.subway.com/ns/images/menu/IND/ENG/new%20RPLC-ChickenTeriyaki_594%20x%20334.jpg"
+      },
+      {
+        "name": "Corn & Peas",
+        "description": "A delicious assortment of green peas, golden corns and crunchy dices of carrot , blended in a creamy mixture of eggless mayo sauce.",
+        "price": 150,
+        "image": "https://www.subway.com/ns/images/menu/IND/ENG/Corn%20n%20Peas_594x334.jpg"
+      }
+    ]
+  }
+]
