@@ -1,4 +1,4 @@
-# TapnTaste
+# Name: TapnTaste
 # Topic: Scaling small businesses.
 
 Q1. What is it?
